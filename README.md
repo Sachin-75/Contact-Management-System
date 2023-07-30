@@ -1,5 +1,5 @@
 # Contact-Management-System
-The Contact Management System is a Java-based application that allows users to manage their contacts efficiently. It provides functionalities to add, update, and delete contacts, and all the contact information is stored in a PostgreSQL database. The project emphasizes the use of Java for backend logic and MySql for database management, with a simple command-line interface for user interactions.
+The Contact Management System is a Java-based application that allows users to manage their contacts efficiently. It provides functionalities to add, update, and delete contacts, and all the contact information is stored in a MySql database. The project emphasizes the use of Java for backend logic and MySql for database management, with a simple command-line interface for user interactions.
 
 # Features
 - Add a new contact with details like name, phone number, and email.
